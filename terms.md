@@ -616,7 +616,7 @@ interdisciplinary also transdisciplinarity
 
 international relations, US-Brazil, [223]
 
-Internet [195], [199], [213], [225], [239], [311], [373], [467]; _see also_ online
+internet [195], [199], [213], [225], [239], [311], [373], [467]; _see also_ online
 
 intervention [047]; _see also_ activism
 
