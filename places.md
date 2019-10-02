@@ -284,7 +284,7 @@ title: 'Index 2016: Places'
     * Seaview [052]
     * Thorp [290]
     * Walla Walla [530]
-    * Washington D.C. [396], [554]
+  * Washington D.C. [396], [554]
   * **West Virginia**
     * Buckhannon [524]
   * **Wisconsin**
